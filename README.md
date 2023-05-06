@@ -5,8 +5,8 @@
 <!-- Github stats e principais linguagens -->
 <div>
   <a href="https://github.com/MaickTonet">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaickTonet&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickTonet&layout=compact&theme=dark"
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaickTonet&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true&count_private=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickTonet&layout=compact&theme=dark"
   </a>
 </div>
   

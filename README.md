@@ -3,7 +3,7 @@
 <p>Aqui frequentemente posto meus estudos sobre programação</p> <br>
 
 <!-- Github stats e principais linguagens -->
-<div>
+<div align="center">
   <a href="https://github.com/MaickTonet">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaickTonet&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true&count_private=true">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaickTonet&layout=compact&theme=dark"

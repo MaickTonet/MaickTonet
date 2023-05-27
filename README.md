@@ -18,17 +18,3 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
    </a>
 <div> <hr>
-
-<!-- Badges e links externos -->
-<div>
-  <a href="https://www.instagram.com/maick_tonet/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"/>
-  </a>
-  </a>
-  <a href="mailto:maicktonet4@gmail.com.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
-  </a>
-</div>  

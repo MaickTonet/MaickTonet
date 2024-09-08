@@ -1,6 +1,6 @@
 <!-- Cabeçalho do arquivos -->
 <h3>Olá! Bem-vindo ao meu perfil do Github 👋🏻</h3>
-<p>Aqui frequentemente posto meus estudos sobre programação</p> <br>
+<p>Aqui frequentemente posto meus projetos que estou trabalhando</p> <br>
 
 <!-- Github stats e principais linguagens -->
 <div align="center">
@@ -13,8 +13,12 @@
 <!-- Ícones das linguagens -->
 <div style="display: inline_block"> <br>
    <a href="https://github.com/MaickTonet"> 
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+     
    </a>
 <div> <hr>
